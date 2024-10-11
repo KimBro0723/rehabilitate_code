@@ -1,1 +1,1 @@
-The code that sets the time on the smartphone and sends it to the water bottle is PillClock2 (1).aia, and the code that allows the pill to fall down from the water bottle lid at a fixed time is medical_watch4.ino
+The code that detects the user bending and stretching the arm (the ultrasonic sensor detects the narrowing of the gap between the joints when bending the arm) is distance.ino, and the code that moves the plane in the game whenever it receives a signal from the equipment is reactivate_game.aia.
